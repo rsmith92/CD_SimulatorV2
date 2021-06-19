@@ -1,7 +1,6 @@
 # CD_SimulatorV2
 unix cd simulator written in Java (doesn't use a built-in network)
 
-<br />
 Java Simulator<br />
 -I was able to fully implement the Java abstract change directory function.<br />
 -The file runs from the command line<br />
